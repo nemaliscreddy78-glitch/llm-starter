@@ -1,0 +1,15 @@
+# Secret API keys
+.env
+.env.*
+!.env.example
+
+# Python virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Editor files
+.vscode/
+.DS_Store
